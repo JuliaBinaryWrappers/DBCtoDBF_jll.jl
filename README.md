@@ -12,7 +12,10 @@ If you have any issue, please report it to the Yggdrasil [bug tracker](https://g
 
 ## Documentation
 
+This is a warpper to you cna call to ccall to convert .dbc to .dbf 
+
 For more details about JLL packages and how to use them, see `BinaryBuilder.jl` [documentation](https://docs.binarybuilder.org/stable/jll/).
+
 
 ## Sources
 
