@@ -1,0 +1,143 @@
+[[DBCtoDBF]]
+arch = "aarch64"
+git-tree-sha1 = "a13f00335ab77704b4435637d8a46377ddf87e4f"
+os = "macos"
+
+    [[DBCtoDBF.download]]
+    sha256 = "79a28e9a89ea23e88c3b353fc6653cd1ab218381267831a5c1462db2afb9f20e"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[DBCtoDBF]]
+arch = "aarch64"
+git-tree-sha1 = "af465d0fbc19396a4ee05dc263fdf2292c4051f8"
+libc = "glibc"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "e719d848b8b084ea76a92a75a652e6b6a02a128686d18c93eb21ea2ca0806285"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[DBCtoDBF]]
+arch = "aarch64"
+git-tree-sha1 = "d13af210a3056b7d4239a6444cec07097f1c66b4"
+libc = "musl"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "d1eea163a90ce2d7cbc971b99db2697207495e9dadca07807875ea4aaaf29522"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.aarch64-linux-musl.tar.gz"
+[[DBCtoDBF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9d653bb6b7b5d1c076cc96742bf21f767488a75f"
+libc = "glibc"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "63266fec7c9dbd35a201fa56118ac72e3e3e55146bffa473e88ec90c3efda120"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[DBCtoDBF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "450019fe71859a772ed46555ebd4b68ab6051fb3"
+libc = "musl"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "c1df20b7ed09b19832983fc4c4fc1b419b40707609b95c5dd073ce5386a0a301"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[DBCtoDBF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3a6c63efc9d8bce798bdf3c28ea402ba55782627"
+libc = "glibc"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "36d1a6af982e552c63721fa3b014fe6ff12b6fb174216c364f70fc4aff0e77e8"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[DBCtoDBF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a09902b7449bbecb29327040dddd521c80fe4fab"
+libc = "musl"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "108049d3e96a5c1545f18c08f634adc57e5ae48a23692a672c08bec53afb1d16"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[DBCtoDBF]]
+arch = "i686"
+git-tree-sha1 = "ed2c9e35f073dd30e8712ca5d4e2cb9c4a462dcf"
+libc = "glibc"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "a905e951a86dcf2630c640c924f08e2456d250db282d3c4f04e535216485668c"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.i686-linux-gnu.tar.gz"
+[[DBCtoDBF]]
+arch = "i686"
+git-tree-sha1 = "b9e783237b35a459cfa48324e23d32d999633c05"
+libc = "musl"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "783c93479741776d7503bed2b4e2c9933c6f96fa436a937e44414b34879b95e7"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.i686-linux-musl.tar.gz"
+[[DBCtoDBF]]
+arch = "i686"
+git-tree-sha1 = "54f6d7ea66f8566a2e74375ec9f5df21f0fa0f8c"
+os = "windows"
+
+    [[DBCtoDBF.download]]
+    sha256 = "c12fcdc4de7ad102c8890c97e1409ee50a085c88bfdfe635ea51aabfe998a54b"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.i686-w64-mingw32.tar.gz"
+[[DBCtoDBF]]
+arch = "powerpc64le"
+git-tree-sha1 = "512fccdd5c7e0a0928cd3514e6041e374ece9396"
+libc = "glibc"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "9c0de0ce7b4c5c00cba68a68dbba17e88f24d61915c815914e095cf83193218b"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[DBCtoDBF]]
+arch = "x86_64"
+git-tree-sha1 = "18ebf5e2abd2df53ce2393af76dabd67365a7363"
+os = "macos"
+
+    [[DBCtoDBF.download]]
+    sha256 = "08aa10af85c5615d81111ba14956fef349fe6330bd8937940ffddf6dc500426c"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[DBCtoDBF]]
+arch = "x86_64"
+git-tree-sha1 = "f1a7fd866776b9bee75a1118324188cf8fcad5d4"
+libc = "glibc"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "30d7328fc13db5c06678c24a476cf903da4ccda798c539f5c6ebc4d9a94bf3ea"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[DBCtoDBF]]
+arch = "x86_64"
+git-tree-sha1 = "1ef9a3b20d36dcfda8c0aba96895987139ccba18"
+libc = "musl"
+os = "linux"
+
+    [[DBCtoDBF.download]]
+    sha256 = "de73f7210da36692fadbc3eda9d1c2923d3a63bd113e49ba3eb9382a2dde2095"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.x86_64-linux-musl.tar.gz"
+[[DBCtoDBF]]
+arch = "x86_64"
+git-tree-sha1 = "dceaf5da421f4bd683b395f2fbc254467f4e8cc6"
+os = "freebsd"
+
+    [[DBCtoDBF.download]]
+    sha256 = "bbeaa7ece4f2c18cbc3f2c42627b4dc3958a980b8ff28a9bd954bae041b58b6e"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[DBCtoDBF]]
+arch = "x86_64"
+git-tree-sha1 = "aec085bfabe7420706a3fb41da86c7be26b00629"
+os = "windows"
+
+    [[DBCtoDBF.download]]
+    sha256 = "35f2c9bc26ed94bfa6f703b9d16f2ada72b26c85f6b12ea620a4490acb132c93"
+    url = "https://github.com/JuliaBinaryWrappers/DBCtoDBF_jll.jl/releases/download/DBCtoDBF-v1.0.0+0/DBCtoDBF.v1.0.0.x86_64-w64-mingw32.tar.gz"
